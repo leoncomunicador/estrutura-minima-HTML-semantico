@@ -1,0 +1,1 @@
+arquivo criado para mostrar uma estrutura básica de um HTML semântico.
